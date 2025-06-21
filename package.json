@@ -18,7 +18,7 @@
     "lucide-react": "^0.484.0",
     "moment": "^2.29.4",
     "playwright": "^1.40.0",
-    "puppeteer": "^21.6.1",
+    "puppeteer": "^22.8.2",
     "react": "^18.2.0",
     "react-big-calendar": "^1.8.2",
     "react-dom": "^18.2.0",
